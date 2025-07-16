@@ -15,5 +15,14 @@ The Patial House wabt to crate an annual sales report for 2022. so that, the own
 - Found the highest contributing sales channel
 - Identified top-selling product category
 
+-Dashboard Interaction <a href="https://github.com/Nikhil8894/Data-Analysis-Dashboard/blob/main/Screenshot%20(2).png">View Dashboard</a>
 
+## Process
+Verify Data for any missing values and anomalies, and sort out the same.
+Make sure data is consistant and clean with respect to data type, data formate and values used.
+created pivot table according to the question asked.
+Merge all pivot table into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5655e36f-f2ae-412e-a2b3-8f6e22ef724b" />
 
