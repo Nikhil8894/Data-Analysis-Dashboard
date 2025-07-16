@@ -26,3 +26,10 @@ Merge all pivot table into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 <img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5655e36f-f2ae-412e-a2b3-8f6e22ef724b" />
 
+## Project Insights
+Women contributed to ~65% of the total purchases
+Maharashtra, Karnataka, Telangana, Tamil Nadu and UP are top 5 sales contributors (~35%)
+Age group 30–49 years contributed ~80% of orders
+Amazon, Flipkart & Myntra together made up ~80% of total sales
+Final Recommendation to Shree Radhe Garments
+Target women aged 30–49 in Maharashtra, Karnataka, and UP with more offers, coupons, and ads on Amazon, Flipkart, and Myntra.
